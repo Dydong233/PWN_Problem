@@ -13,3 +13,6 @@
 ## step3
 
 再次使用fastbin_dup来修改__malloc_hook地址。
+
+## difficult
+2
